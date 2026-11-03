@@ -2,7 +2,7 @@
 
 Short, sourced answers to the questions people ask most about TikTok reposts: how to remove them, hide them, find them, and what other people can see.
 
-Each answer links to a longer guide with steps and screenshots. Maintained by the team behind [Repostless](https://repostless.app/?utm_source=github&utm_medium=referral&utm_campaign=faq_repo). Corrections welcome: open an issue.
+Each answer links to a longer guide with steps and screenshots. Maintained by the team behind [Repostless](https://repostless.app/?utm_source=github&utm_medium=referral&utm_campaign=faq_repo), a repost remover for iPhone and Android. Corrections welcome: open an issue.
 
 *Last checked against TikTok's Help Center: November 2026.*
 
